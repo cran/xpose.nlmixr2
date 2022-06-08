@@ -1,0 +1,12 @@
+da32b0ac72b9dfad01747e6bfc26182a *DESCRIPTION
+f2429b0875539200f5da839b5c07b5e5 *NAMESPACE
+3e19d284d3a880a760786eb503c2698d *NEWS.md
+fed64147f2484f47370201eb180c9edd *R/nlmixr_vpc_theme.R
+de479e6fe32faccbf03d9b82015d7c04 *R/summarise_nlmixr_model.R
+76361ba2200188e233581b4d8e5f9901 *R/theme_xp_nlmixr.R
+d5ddba2470d07c9fd70dc7f5d6753723 *R/xpose_data_nlmixr.R
+e752e5fad97e13742cc0fe3eb83a4783 *README.md
+5bdddd4500616d9cdf5a0b296410d63f *man/nlmixr2_vpc_theme.Rd
+45e9ee808739a1e8dcea346f59a34c98 *man/summarise_nlmixr2_model.Rd
+f0dadff5b53097e31af573d9fa1c498d *man/theme_xp_nlmixr2.Rd
+834d72a88b306f39a5366285ff9fcbe5 *man/xpose_data_nlmixr2.Rd
